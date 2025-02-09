@@ -12,4 +12,7 @@
 - 🔹 **Databases**: SQL, NoSQL
 - 🔹 **Design**: Figma
 
-📫 Want to chat? Feel free to reach out!
+### 📫 Contact Me
+
+📧 Email: [lucassilved@gmail.com](lucassilved@gmail.com)  
+💼 LinkedIn: [https://www.linkedin.com/in/lucas-vinicius-729088265/](https://www.linkedin.com/in/lucas-vinicius-729088265/)
