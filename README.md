@@ -15,4 +15,4 @@
 ### 📫 Contact Me
 
 📧 Email: [lucassilved@gmail.com](lucassilved@gmail.com)  
-💼 LinkedIn: [https://www.linkedin.com/in/lucas-vinicius-729088265/](https://www.linkedin.com/in/lucas-vinicius-729088265/)
+💼 LinkedIn: [linkedin](https://www.linkedin.com/in/lucas-vinicius-729088265/)
