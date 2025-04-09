@@ -12,8 +12,8 @@
 - 🔹 **Databases**: SQL, NoSQL
 - 🔹 **Design**: Figma
 
-### 📫 Contact Me
+### 📫 Contact Me and Others links
 
-📧 Email: [lucassilved@gmail.com](lucassilved@gmail.com)  
-💼 LinkedIn: [linkedin](https://www.linkedin.com/in/lucas-vinicius-729088265/)
-✍️ Code Pen: [Code Pen](https://codepen.io/lucassf2k)
+- 📧 Email: [lucassilved@gmail.com](lucassilved@gmail.com)
+- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/lucas-vinicius-729088265/)
+- ✍️ Code Pen: [Code Pen](https://codepen.io/lucassf2k)
